@@ -1,0 +1,53 @@
+[
+  {
+    "id": "r1",
+    "title": "Write the brief",
+    "focusMin": 90,
+    "dueInHours": 6,
+    "context": "deep",
+    "tags": [
+      "writing"
+    ]
+  },
+  {
+    "id": "r2",
+    "title": "Reply to Ilse",
+    "focusMin": 10,
+    "dueInHours": 2,
+    "context": "admin",
+    "tags": [
+      "quick"
+    ]
+  },
+  {
+    "id": "r3",
+    "title": "Review the deck",
+    "focusMin": 45,
+    "dueInHours": 24,
+    "context": "deep",
+    "tags": [
+      "review"
+    ]
+  },
+  {
+    "id": "r4",
+    "title": "Book the room",
+    "focusMin": 5,
+    "dueInHours": 1,
+    "context": "admin",
+    "tags": [
+      "quick"
+    ]
+  },
+  {
+    "id": "r5",
+    "title": "Draft the plan",
+    "focusMin": 120,
+    "dueInHours": 48,
+    "context": "deep",
+    "tags": [
+      "writing",
+      "long"
+    ]
+  }
+]
